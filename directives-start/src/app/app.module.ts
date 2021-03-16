@@ -15,7 +15,7 @@ import { BetterHighlightDirective } from './better-highlight/better-highlight.di
   ],
   imports: [
     BrowserModule,
-    FormsModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
